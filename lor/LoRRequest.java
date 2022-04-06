@@ -6,7 +6,7 @@ import com.squareup.okhttp.Response;
 
 public final class LoRRequest {
 
-    public static final String API_KEY = "RGAPI-31acbc87-4948-4012-ad6f-283848e6f617";
+    public static final String API_KEY = "YOUR_API_KEY_HERE";
 
     /**
      * @param url The URL of the request.
